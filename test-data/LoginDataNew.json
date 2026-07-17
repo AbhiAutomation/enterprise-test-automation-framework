@@ -1,8 +1,17 @@
 [
   {
-    "username": "newuser@test.com",
-    "password": "Password123",
-    "expected": "Success",
-    "run": "yes"
+    "email": "techwithjatin1829@gmail.com",
+    "password": "Qweqwe123!",
+    "expected": "Success"
+  },
+  {
+    "email": "admin@gmail.com",
+    "password": "Admin@123",
+    "expected": "Failure"
+  },
+  {
+    "email": "test@gmail.com",
+    "password": "Password@123",
+    "expected": "Failure"
   }
 ]
