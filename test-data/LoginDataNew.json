@@ -1,0 +1,8 @@
+[
+  {
+    "username": "newuser@test.com",
+    "password": "Password123",
+    "expected": "Success",
+    "run": "yes"
+  }
+]
